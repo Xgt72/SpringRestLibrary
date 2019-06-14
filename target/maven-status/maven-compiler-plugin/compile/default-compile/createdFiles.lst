@@ -1,0 +1,4 @@
+com/wildcodeschool/library/LibraryApplication.class
+com/wildcodeschool/library/repositories/BookRepository.class
+com/wildcodeschool/library/models/Book.class
+com/wildcodeschool/library/controllers/BookController.class
